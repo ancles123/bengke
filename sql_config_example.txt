@@ -1,0 +1,14 @@
+Untuk mengaktifkan SQL di Apps Script, isi Property Script berikut:
+
+sql_host = localhost
+sql_port = 3306
+sql_database = shaquille_garage
+sql_user = root
+sql_password = your_password
+sql_type = mysql
+
+Cara menambah property di Apps Script:
+1. Buka Apps Script project
+2. Klik Project Settings
+3. Buka Script Properties
+4. Tambahkan key/value di atas
